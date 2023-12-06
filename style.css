@@ -72,9 +72,9 @@ body{
 }
 @keyframes obstacleAni{
 0%{
-    left: 100%;
+    left: 100vw;
 }
 100%{
-    left : 100vw;
+    left : -10vw;
 }
 }
